@@ -91,6 +91,7 @@
     {"id":{"name":"rm_level_1","path":"rooms/rm_level_1/rm_level_1.yy",},},
     {"id":{"name":"rm_level_2","path":"rooms/rm_level_2/rm_level_2.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
+    {"id":{"name":"TGK_Scifi_Start_Cafeteria","path":"rooms/TGK_Scifi_Start_Cafeteria/TGK_Scifi_Start_Cafeteria.yy",},},
     {"id":{"name":"seq_menu","path":"sequences/seq_menu/seq_menu.yy",},},
     {"id":{"name":"snd_baddie_defeated","path":"sounds/snd_baddie_defeated/snd_baddie_defeated.yy",},},
     {"id":{"name":"snd_baddie_footstep","path":"sounds/snd_baddie_footstep/snd_baddie_footstep.yy",},},
@@ -186,6 +187,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"TGK_Scifi_Start_Cafeteria","path":"rooms/TGK_Scifi_Start_Cafeteria/TGK_Scifi_Start_Cafeteria.yy",},},
     {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"roomId":{"name":"rm_level_1","path":"rooms/rm_level_1/rm_level_1.yy",},},
     {"roomId":{"name":"rm_level_2","path":"rooms/rm_level_2/rm_level_2.yy",},},
