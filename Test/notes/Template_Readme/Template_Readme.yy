@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"Template_Readme",
+  "name":"Template_Readme",
+  "parent":{
+    "name":"Test",
+    "path":"Test.yyp",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}
